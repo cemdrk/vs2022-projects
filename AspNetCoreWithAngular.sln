@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console.csproj", "{BC6D3158-6B23-4E5E-9E76-CEB800651AE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWithAngular", "AspNetCoreWithAngular.csproj", "{C21C848A-0EB8-4659-BA08-53DE3D557762}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BC6D3158-6B23-4E5E-9E76-CEB800651AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC6D3158-6B23-4E5E-9E76-CEB800651AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC6D3158-6B23-4E5E-9E76-CEB800651AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC6D3158-6B23-4E5E-9E76-CEB800651AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21C848A-0EB8-4659-BA08-53DE3D557762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21C848A-0EB8-4659-BA08-53DE3D557762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21C848A-0EB8-4659-BA08-53DE3D557762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21C848A-0EB8-4659-BA08-53DE3D557762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5F121C12-0134-41F7-A08B-E9277BD7B962}
+		SolutionGuid = {39355407-A218-405F-B6EA-250092ED1625}
 	EndGlobalSection
 EndGlobal
